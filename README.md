@@ -2,7 +2,7 @@
 
 A 360° Power BI dashboard built for **AtliQ Hardware**, unifying Finance, Sales, Marketing and Supply Chain data into a single, role-based reporting suite for executives.
 
-![Business Insights 360 Thumbnail](Business_360_thumbnail_sharp.jpg)
+![Business Insights 360 Thumbnail](business_360_thumbnail_sharp.jpg)
 
 ## Overview
 
