@@ -29,11 +29,11 @@ Business Insights 360 connects customer, product, market and time dimensions to 
 ## Screenshots
 
 **Executive View**
-![Executive View](./screenshot-executive-view.jpg)
+![Executive View](Executive_View.png)
 Consolidated rollup of top-level KPIs across Finance, Sales, Marketing and Supply Chain — including P&L, gross margin by segment, net sales & growth trends, and forecast accuracy — all on one page.
 
 **Finance View**
-![Finance View](Finance View)
+![Finance View](Finance_View.png)
 P&L breakdown by customer, product, or country over any time period, with gross margin % tracked against fiscal year and quarter.
 
 ## Tools & Techniques
@@ -44,9 +44,6 @@ P&L breakdown by customer, product, or country over any time period, with gross 
 - **Data model** — dimension tables (customer, product, market, date) connected to fact tables (actuals & estimates)
 
 ## Live Dashboard
-
-If published to the Power BI Service, add the link here:
-
 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMwNjJmNWMtMDgzMS00ZDZhLWE2OWYtMWNlNWY1MTM4YzU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ## About
